@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<!--   <ListView-->
+<!--       android:id="@+id/listView"-->
+<!--       android:layout_width="match_parent"-->
+<!--       android:layout_height="match_parent"-->
+<!--    />-->
+
+   <TextView
+       android:id="@+id/textView"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:padding="10dp"
+       android:text="Pendataan Alumni"
+       android:textSize="24sp"
+       android:textStyle="bold" />
+
+   <TextView
+       android:id="@+id/textView3"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="Sasaran dan tujuan dibuatnya database ini adalah :"
+       android:textStyle="bold" />
+
+   <TextView
+       android:id="@+id/textView2"
+       android:layout_width="match_parent"
+       android:layout_height="585dp"
+       android:padding="10dp"
+       android:text="
+       1.Tujuan yang paling utama adalah untuk mendata semua Alumni.
+     *harapannya bisa terdata secara keseluruhan dari mulai angkatan pertama.
+2.  Agar dapat diketahui data terbaru anggota/alumni.
+3. Melakukan inventarisasi alumni dan potensinya, untuk dijadikan database Potensi Alumni yang dapat dihubungi apabila      sewaktu-waktu dibutuhkan.
+4. Mengkonsolidasikan alumni per angkatan sehingga dapat terbentuk perwakilan per angkatan. Harapan yang ingin dicapai adalah bahwa alumni semakin menyadari arti pentingnya keberadaan komunitas alumni.
+5. Meningkatkan kepedulian kepada alumni/adek-adek mahasiswa dalam bentuk pemberian informasi tentang beasiswa, bursa kerja, dan sebagainya.
+6. Intensifikasi dan ekstensifikasi sumber-sumber dana bagi pengembangan dan peningkatan program-program.
+7. Melakukan pembenahan mekanisme dan tata laksana organisasi, sehingga dapat menjadikan FORSADA sebagai pusat kegiatan dan informasi bagi para alumni.
+8. Mengarahkan pengembangan kepengurusan dan kegiatan yang ada.
+9.  Untuk memudahkan jarkom by sms maupun by phone seputar kegiatan alumni.
+10. Untuk dipromosikan dan dipublikasikan pada berbagai media alumni dengan tujuan terjalinnya tali silaturahmi antar alumni.
+11. Untuk Mapping Usaha jaringan alumni agar kedepannya dapat berkontribusi langsung dengan kegiatan-kegiatan di kampus" />
+</LinearLayout>
